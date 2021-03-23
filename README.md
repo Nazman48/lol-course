@@ -1,0 +1,2 @@
+# lol-course
+python lol
